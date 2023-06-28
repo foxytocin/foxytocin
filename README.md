@@ -2,7 +2,7 @@
 
 
 #### Visit my Digital Media Projects at <br />
-<a hreflang=”de” href="https://anfuchs.de" target="_blank" rel="noopener">https://anfuchs.de (German)</a><br />
+<a hreflang=”de” href="https://anfuchs.de" target="_blank" rel="noopener">https://anfuchs.de</a><br />
 
 <!--
 **foxytocin/foxytocin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
